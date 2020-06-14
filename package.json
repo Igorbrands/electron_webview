@@ -2,11 +2,14 @@
   "name": "electron_webview",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "keywords": [],
   "author": "Igor Cantelmo <igorcantelmo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.0.4"
+  }
 }

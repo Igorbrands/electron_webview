@@ -10,7 +10,7 @@
   "author": "Igor Cantelmo <igorcantelmo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.3.1"
+    "electron": "^18.3.7"
   },
   "devDependencies": {
     "@types/electron": "^1.6.10"
